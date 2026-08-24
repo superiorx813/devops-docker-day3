@@ -51,4 +51,4 @@ jobs:
           push: true
           tags: |
             superiorx813/project-management:latest
-            YOUR_DOCKERHUB_USERNAME/project-management:${{ github.sha }}
+            superiorx813/project-management:${{ github.sha }}
